@@ -1,0 +1,7 @@
+asgiref
+Django
+django-filter
+djangorestframework
+pytz
+sqlparse
+django-cors-headers
